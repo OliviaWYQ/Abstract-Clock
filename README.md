@@ -1,6 +1,6 @@
 # Abstract-Clock
 
-Use p5.js
+Use p5.js to build the abstack clock
 
 Hour: The triangle that make a turn in one day.
 
